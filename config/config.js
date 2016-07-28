@@ -16,6 +16,6 @@ module.exports.sendMail = {
     port: 25,
     auth:{
         user: 'zhouxingzhi@live.com',
-        pass: 'qwe789'
+        pass: '********'
     }
 };
